@@ -1,0 +1,197 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #e3f6f5;
+    color: #40514e;
+}
+
+.devid{
+    margin-bottom: 10px;
+    height: 150px;
+}
+
+h1{
+    font-family: 'Sacramento', cursive;
+    font-size: 120px;
+    line-height: 2;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: bold;
+    color: #005792;
+}
+
+h3{
+    color: #11999e;
+}
+
+.footer-link{
+    color: #11999e;
+}
+
+.skills{
+    padding-top: 50px;
+}
+
+.work-experience{
+    padding-top: 50px;
+}
+
+.studies{
+    padding-top: 50px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 200px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.work-row{
+    width: 50%;
+    margin: 100px auto 200px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.studies-row{
+    width: 50%;
+    margin: 100px auto 200px auto;
+    text-align: right;
+    line-height: 2;
+}
+
+.profile{
+    width: 50%;
+    text-align: center;
+    margin: 100px auto 100px auto;
+    line-height: 2;
+    
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 6px;
+    width: 5%;
+    
+}
+
+.controller-photo{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    padding-bottom: 40px;
+}
+
+.guitar-photo{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    
+}
+
+.policeman-photo{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.school-photo{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.top-container{
+    position: relative;
+    width: 100%;
+    height: 90%;
+    background-color: #8dc6ff;
+}
+
+.bottom-container{
+    background-color: #8dc6ff;
+    padding: 50px 0 20px;
+}
+
+.contact-me{
+    margin: 100px auto 100px auto;
+}
+
+a{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #EAF6F6;
+}
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.img{
+    text-align: center;
+    
+       
+}
+
+.mountain{
+    width: 100%;
+    height: 960px;
+}
+
+.text{
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 140px;
+    color: #00204a;
+}
+
+.photo-me{
+    width: 25%;
+    height: auto;
+    margin: 20px 20px;
+}
+
+.btn {
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #1199);
+    background-image: -moz-linear-gradient(top, #11cdd4, #1199);
+    background-image: -ms-linear-gradient(top, #11cdd4, #1199);
+    background-image: -o-linear-gradient(top, #11cdd4, #1199);
+    background-image: linear-gradient(to bottom, #11cdd4, #1199);
+    -webkit-border-radius: 20;
+    -moz-border-radius: 20;
+    border-radius: 20px;
+    font-family: 'Montserrat', sans-serif ;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
+
+  .copyright{
+    margin: 30px auto 10px auto;
+    color: #EAF6F6;
+  }
